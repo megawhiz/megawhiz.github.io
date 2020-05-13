@@ -10,8 +10,8 @@ body {
 }
 .sidebar {
   position: fixed;
-  left: -250px;
-  width: 250px;
+  left: -285px;
+  width: 285px;
   height: 100%;
   background: #042331;
   transition: all .5s ease;
@@ -62,7 +62,7 @@ label #btn{
 }
 label #cancel{
   z-index: 1111;
-  left: -195px;
+  left: -280px;
   top: 17px;
   font-size: 30px;
   color: #0a5275;
